@@ -1,4 +1,5 @@
 const locations = {
-    DASHBOARD : '/',
-}
+  DASHBOARD: "/",
+  API: "/feth_data",
+};
 export default locations;
